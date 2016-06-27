@@ -1,4 +1,4 @@
-﻿
+package true123.cn.utils;
 
 import android.content.Context;
 import android.content.pm.PackageInfo;
