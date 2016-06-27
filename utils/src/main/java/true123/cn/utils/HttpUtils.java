@@ -1,5 +1,4 @@
-﻿
-
+package true123.cn.utils;
 import java.io.BufferedReader;
 import java.io.ByteArrayOutputStream;
 import java.io.IOException;
